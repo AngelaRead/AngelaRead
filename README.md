@@ -47,7 +47,6 @@ This portfolio demonstrates competencies across design, development, and emergin
 | Architecture | Product & UX Translation |
 |---|---|
 | Program brief, stakeholder interviews, site & user studies | Product discovery & strategy — vision, research synthesis, problem framing |
-| Feature definition & prioritization (MVP), success metrics, roadmaps | |
 | Space planning & user flow | Information architecture & user journeys |
 | Technical drawings & diagrams | Wireframes & system design documentation |
 | 3D modeling & rendering | Prototyping & visual design |
@@ -87,12 +86,14 @@ This portfolio demonstrates competencies across design, development, and emergin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
  
 **AI & Research:**
  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)
  
 **Architecture Tools:**
  
