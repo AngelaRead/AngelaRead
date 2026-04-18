@@ -44,9 +44,11 @@ Two architecture projects reframed through the lens of human interaction, system
 
 ## 🏅 Certificates & Education
 
-- Google UX Design Professional Certificate — Completed
-- Mimo Full-Stack Development Certificate — Completed
-- FreeCodeCamp — In progress (HTML, CSS, JavaScript)
+## 🏅 Certificates & Education
+- [Google UX Design Professional Certificate (PDF)](./docs/Google-UX-Design-Professional-Certificate.pdf) — Completed
+- [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Development-Certificate.pdf) — Completed
+- [freeCodeCamp Legacy Responsive Web Design V8 Certificate (PDF)](./docs/Legacy_Responsive_Web_Design_V8.pdf) — Completed
+- **FreeCodeCamp JavaScript** — In progress
 - **Master of Architecture, RIT**
   - Published thesis: [Integration of Daylighting into Educational Building Design for Energy Efficiency, Health Benefit, and Mercury Emissions Reduction Using Heliodon for Physical Modeling](https://repository.rit.edu/cgi/viewcontent.cgi?article=10826&context=theses) — cited 7 times, viewed by researchers across nearly 100 countries
   - International conference presentation — Bern, Switzerland 2022
