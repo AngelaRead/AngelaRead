@@ -43,8 +43,6 @@ Two architecture projects reframed through the lens of human interaction, system
 ---
 
 ## 🏅 Certificates & Education
-
-## 🏅 Certificates & Education
 - [Google UX Design Professional Certificate (PDF)](./docs/Google-UX-Design-Professional-Certificate.pdf) — Completed
 - [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Development-Certificate.pdf) — Completed
 - [freeCodeCamp Legacy Responsive Web Design V8 Certificate (PDF)](./docs/Legacy_Responsive_Web_Design_V8.pdf) — Completed
