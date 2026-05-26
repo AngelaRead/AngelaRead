@@ -66,17 +66,20 @@ Two architecture projects reframed through the lens of human interaction, system
 | Client presentations | Stakeholder communication and design critiques |
 
 ### Design Engineering and Development
-- HTML5, CSS3, JavaScript (in progress)
+- HTML5 and CSS3 — built 28 projects including a live portfolio site written from scratch
+- JavaScript — actively learning through freeCodeCamp
+- React — planned next step after JavaScript completion
 - Git and GitHub — SSH keys, GPG commit signing, version control workflows
 - VS Code, browser DevTools, accessibility auditing
 - Responsive layout, component thinking, design to code handoff
+- Design systems — component-based thinking applied across tools and platforms
+- Accessibility — WCAG standards, inclusive design patterns, screen reader consideration
 
 ### AI and Emerging Technology
 - **Generative AI and LLMs** — Hands-on use of Claude, GitHub Copilot, and Microsoft Copilot for research, prototyping, and development workflows
-- **AI systems research** — Independent study of LLM architectures, model limitations, and failure modes
-- **AI safety and ethics** — Familiarity with alignment literature, agentic system risks, and responsible AI design principles
-- **Privacy and data flows** — Original research into data privacy, browser fingerprinting, and consent design patterns; developed original frameworks consent theater and accountability laundering through primary research into banking AI deployment and social media tracking infrastructure
-- **Critical evaluation** — Ability to assess AI tools not just as a user but as a designer: identifying where AI assistance adds value, introduces risk, or requires human oversight
+- **AI systems research** — Independent study of LLM architectures, model limitations, and failure modes relevant to product design
+- **Privacy and data flows** — Original research into consent design patterns and data privacy; developed frameworks through primary research into banking AI deployment and social media tracking infrastructure
+- **Critical evaluation** — Ability to assess AI tools as a designer: identifying where AI assistance adds value, introduces risk, or requires human oversight
 
 ---
 
@@ -121,9 +124,10 @@ Two architecture projects reframed through the lens of human interaction, system
 Focused on design technologist and UX engineering work at the intersection of design, front-end development, and AI systems.
 
 - **Design engineering** — closing the gap between design and code through practical front-end work and component-level thinking
+- **Front-end development** — HTML5 and CSS3 complete with 28 built projects; currently building JavaScript foundations through freeCodeCamp; React planned as next step
+- **Motion and visualization** — building on cinematic 3D architectural visualization work to explore motion design and After Effects
 - **AI-informed UX** — designing for AI systems with an understanding of how they actually work, including edge cases, failure modes, and trust calibration
 - **Privacy and accessibility** — research-driven UX with a focus on consent design, transparency patterns, and inclusive interaction models
-- **Front-end development** — building JavaScript skills through freeCodeCamp and independent projects
 
 ---
 
