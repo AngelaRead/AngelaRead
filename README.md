@@ -1,4 +1,4 @@
-# Architecture → Design Technologist & UX
+# Architectural Designer & Design Technologist
 
 A portfolio bridging architectural design and design engineering — combining spatial problem-solving, user-centered thinking, and hands-on development with a critical perspective on AI systems.
 
@@ -8,7 +8,7 @@ A portfolio bridging architectural design and design engineering — combining s
 
 ## 🎯 About
 
-I am an architect-turned-design technologist with 9+ years of experience translating complex systems into human-centered solutions. My background spans spatial design, front-end development, and independent research into AI systems — including how LLMs behave, where they fail, and what that means for products built on top of them.
+I am an architectural designer with 9+ years of experience translating complex systems into human-centered solutions, with growing expertise in front-end development and design technology. My background spans spatial design, front-end development, and independent research into AI systems — including how LLMs behave, where they fail, and what that means for products built on top of them.
 
 - **User-Centered Design** — Designing spaces and systems around human behavior and needs
 - **Visual Communication** — Floor plans, diagrams, and UI as information architecture
@@ -121,7 +121,7 @@ Two architecture projects reframed through the lens of human interaction, system
 
 ## 🚀 Currently
 
-Focused on design technologist and UX engineering work at the intersection of design, front-end development, and AI systems.
+Currently expanding my practice across architectural design, front-end development, and design technology.
 
 - **Design engineering** — closing the gap between design and code through practical front-end work and component-level thinking
 - **Front-end development** — HTML5 and CSS3 complete with 28 built projects; currently building JavaScript foundations through freeCodeCamp; React planned as next step
