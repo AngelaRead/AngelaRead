@@ -30,9 +30,9 @@ Architectural designer with 9+ years of experience, expanding into front-end dev
 ---
 
 ## 🏅 Certificates & Education
-- [Google UX Design Professional Certificate (PDF)](./docs/Google-UX-Design-Professional-Certificate.pdf) — Completed
-- [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Development-Certificate.pdf) — Completed
-- [freeCodeCamp Legacy Responsive Web Design V8 Certificate (PDF)](./docs/Legacy_Responsive_Web_Design_V8.pdf) — Completed
+- [Google UX Design Professional Certificate (PDF)](./docs/Google-UX-Design-Professional-Certificate.pdf) 
+- [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Development-Certificate.pdf) 
+- [freeCodeCamp Legacy Responsive Web Design V8 Certificate (PDF)](./docs/Legacy_Responsive_Web_Design_V8.pdf)
 - **FreeCodeCamp JavaScript** — In progress
 - **Master of Architecture, RIT**
   - Published thesis: [Integration of Daylighting into Educational Building Design for Energy Efficiency, Health Benefit, and Mercury Emissions Reduction Using Heliodon for Physical Modeling](https://repository.rit.edu/cgi/viewcontent.cgi?article=10826&context=theses) — cited 8 times, viewed by researchers across nearly 100 countries
